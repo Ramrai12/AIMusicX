@@ -153,31 +153,31 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/a67094fc4a99bca08114b.jpg"
+        thumb_name = "https://te.legra.ph/file/2a1c5660c3a8253e100e9.jpg"
         thumbnail = thumb_name
-        duration = round(audio.duration / 60)
-        views = "Locally added"
+        duration = rod(audio.duration / 60)
+        views = "Locay added"
 
         keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
                             text=" 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/studynsn")
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="KRISHNA",
+                            url=f"https://t.me/KRISHNA_DEVIL_BOY"),
                             
                     InlineKeyboardButton(
                             text="Wr are tough 🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/studynsn")
                ],
                [
                         InlineKeyboardButton(
                             text=" 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/studynsn")
                    
                 ]
             ]
@@ -216,21 +216,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Channel",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/studynsn")
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="KRISHNA",
+                            url=f"https://t.me/KRISHNA_DEVIL_BOY"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/studynsn")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/studynsn")
                    
                 ]
             ]
@@ -238,7 +238,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/8c3abf591121615cdef42.jpg"
+            thumb_name = "https://te.legra.ph/file/2a1c5660c3a8253e100e9.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -246,21 +246,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/studynsn")
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba🚬",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="KRISHNA",
+                            url=f"https://t.me/KRISHNA_DEVIL_BOY"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/studynsn")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/studynsn")
                    
                 ]
             ]
@@ -314,21 +314,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/studynsn")
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="KRISHNA",
+                            url=f"https://t.me/KRISHNA_DEVIL_BOY"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/studynsn")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/studynsn")
                    
                 ]
             ]
